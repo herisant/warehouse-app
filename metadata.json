@@ -1,0 +1,6 @@
+{
+  "name": "GudangMaster WMS",
+  "description": "Sistem manajemen stok gudang berbasis web dengan pemindaian barcode real-time, laporan inventaris otomatis akhir bulan, peringatan stok menipis via email & SMS/WA, dan dashboard interaktif.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
